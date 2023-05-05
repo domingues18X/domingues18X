@@ -1,7 +1,7 @@
-### Hi there 👋
+### Bem vindo ao meu perfil:
 
-<!--
-**domingues18X/domingues18X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Kemilly Marissa
+
 
 Here are some ideas to get you started:
 
